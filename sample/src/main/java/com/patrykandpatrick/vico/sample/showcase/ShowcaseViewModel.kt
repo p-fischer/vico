@@ -76,7 +76,7 @@ internal class ShowcaseViewModel : ViewModel() {
 
     private companion object {
         const val MULTI_ENTRIES_COMBINED = 3
-        const val GENERATOR_X_RANGE_TOP = 96
+        const val GENERATOR_X_RANGE_TOP = 5
         const val GENERATOR_Y_RANGE_BOTTOM = 2
         const val GENERATOR_Y_RANGE_TOP = 20
         const val UPDATE_FREQUENCY = 2000L
